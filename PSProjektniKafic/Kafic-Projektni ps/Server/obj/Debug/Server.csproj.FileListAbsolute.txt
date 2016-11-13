@@ -1,0 +1,30 @@
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\Server\bin\Debug\Server.exe.config
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\Server\bin\Debug\Server.exe
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\Server\bin\Debug\Server.pdb
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\Server\bin\Debug\Domen.dll
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\Server\bin\Debug\Sesija.dll
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\Server\bin\Debug\SistemskeOperacije.dll
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\Server\bin\Debug\Domen.pdb
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\Server\bin\Debug\Sesija.pdb
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\Server\bin\Debug\SistemskeOperacije.pdb
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\Server\obj\Debug\Server.Form1.resources
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\Server\obj\Debug\Server.Properties.Resources.resources
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\Server\obj\Debug\Server.exe
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\Server\obj\Debug\Server.pdb
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\Server\bin\Debug\Server.exe.config
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\Server\bin\Debug\Server.exe
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\Server\bin\Debug\Server.pdb
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\Server\bin\Debug\Domen.dll
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\Server\bin\Debug\Sesija.dll
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\Server\bin\Debug\Domen.pdb
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\Server\bin\Debug\Sesija.pdb
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\Server\obj\Debug\Server.Form1.resources
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\Server\obj\Debug\Server.exe
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\Server\obj\Debug\Server.pdb

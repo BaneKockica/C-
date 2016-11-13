@@ -1,0 +1,50 @@
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe.config
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.pdb
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\KorisnickiInterfejs\bin\Debug\KontrolerKI.dll
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\KorisnickiInterfejs\bin\Debug\Server.exe
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\KorisnickiInterfejs\bin\Debug\Komunikacija.dll
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\KorisnickiInterfejs\bin\Debug\Domen.dll
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\KorisnickiInterfejs\bin\Debug\KontrolerKI.pdb
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\KorisnickiInterfejs\bin\Debug\Server.pdb
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\KorisnickiInterfejs\bin\Debug\Komunikacija.pdb
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\KorisnickiInterfejs\bin\Debug\Domen.pdb
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csprojResolveAssemblyReference.cache
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.Form1.resources
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.Logovanje.resources
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.Properties.Resources.resources
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csproj.GenerateResource.Cache
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.exe
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.pdb
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe.config
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.pdb
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KorisnickiInterfejs\bin\Debug\KontrolerKI.dll
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KorisnickiInterfejs\bin\Debug\Server.exe
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KorisnickiInterfejs\bin\Debug\Komunikacija.dll
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KorisnickiInterfejs\bin\Debug\Domen.dll
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KorisnickiInterfejs\bin\Debug\KontrolerKI.pdb
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KorisnickiInterfejs\bin\Debug\Server.pdb
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KorisnickiInterfejs\bin\Debug\Komunikacija.pdb
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KorisnickiInterfejs\bin\Debug\Domen.pdb
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csprojResolveAssemblyReference.cache
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.Logovanje.resources
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.Properties.Resources.resources
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csproj.GenerateResource.Cache
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.exe
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.pdb
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KorisnickiInterfejs\bin\Debug\SistemskeOperacije.dll
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KorisnickiInterfejs\bin\Debug\Sesija.dll
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KorisnickiInterfejs\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KorisnickiInterfejs\bin\Debug\Sesija.pdb
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.GlavnaAdmin.resources
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.GlavnaKonobar.resources
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.IzmeniProizvod.resources
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.PretragaProizvoda.resources
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.UnosNovogProizvoda.resources
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.Meni.resources
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.NovRacun.resources
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.StorniranjeRacuna.resources
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.Unos_novog_konobara.resources
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.PretragaKonobara.resources
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.IzmeniKonobara.resources

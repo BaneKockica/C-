@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5B162054-44B2-4BFB-B555-049A86EE619E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>KorisnickiInterfejs</RootNamespace>
+    <AssemblyName>KorisnickiInterfejs</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GlavnaAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GlavnaAdmin.Designer.cs">
+      <DependentUpon>GlavnaAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GlavnaKonobar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GlavnaKonobar.Designer.cs">
+      <DependentUpon>GlavnaKonobar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IzmeniKonobara.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IzmeniKonobara.Designer.cs">
+      <DependentUpon>IzmeniKonobara.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IzmeniProizvod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IzmeniProizvod.Designer.cs">
+      <DependentUpon>IzmeniProizvod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Logovanje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Logovanje.Designer.cs">
+      <DependentUpon>Logovanje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Meni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Meni.Designer.cs">
+      <DependentUpon>Meni.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NovRacun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NovRacun.Designer.cs">
+      <DependentUpon>NovRacun.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pocetna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pocetna.Designer.cs">
+      <DependentUpon>Pocetna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PretragaKonobara.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PretragaKonobara.Designer.cs">
+      <DependentUpon>PretragaKonobara.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PretragaProizvoda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PretragaProizvoda.Designer.cs">
+      <DependentUpon>PretragaProizvoda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StorniranjeRacuna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StorniranjeRacuna.Designer.cs">
+      <DependentUpon>StorniranjeRacuna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Unos novog konobara.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Unos novog konobara.Designer.cs">
+      <DependentUpon>Unos novog konobara.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UnosNovogProizvoda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UnosNovogProizvoda.Designer.cs">
+      <DependentUpon>UnosNovogProizvoda.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="GlavnaAdmin.resx">
+      <DependentUpon>GlavnaAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GlavnaKonobar.resx">
+      <DependentUpon>GlavnaKonobar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IzmeniKonobara.resx">
+      <DependentUpon>IzmeniKonobara.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IzmeniProizvod.resx">
+      <DependentUpon>IzmeniProizvod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Logovanje.resx">
+      <DependentUpon>Logovanje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Meni.resx">
+      <DependentUpon>Meni.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NovRacun.resx">
+      <DependentUpon>NovRacun.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PretragaKonobara.resx">
+      <DependentUpon>PretragaKonobara.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PretragaProizvoda.resx">
+      <DependentUpon>PretragaProizvoda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="StorniranjeRacuna.resx">
+      <DependentUpon>StorniranjeRacuna.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Unos novog konobara.resx">
+      <DependentUpon>Unos novog konobara.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UnosNovogProizvoda.resx">
+      <DependentUpon>UnosNovogProizvoda.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\KontrolerKI\KontrolerKI.csproj">
+      <Project>{26d02a5f-5351-4603-b6c0-92a9232095b5}</Project>
+      <Name>KontrolerKI</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Server\Server.csproj">
+      <Project>{655fa402-3f6a-431c-9476-d790e22cff4b}</Project>
+      <Name>Server</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,18 @@
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\KontrolerKI\bin\Debug\KontrolerKI.dll
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\KontrolerKI\bin\Debug\KontrolerKI.pdb
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\KontrolerKI\bin\Debug\Domen.dll
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\KontrolerKI\bin\Debug\Komunikacija.dll
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\KontrolerKI\bin\Debug\Domen.pdb
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\KontrolerKI\bin\Debug\Komunikacija.pdb
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\KontrolerKI\obj\Debug\KontrolerKI.csprojResolveAssemblyReference.cache
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\KontrolerKI\obj\Debug\KontrolerKI.dll
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\KontrolerKI\obj\Debug\KontrolerKI.pdb
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KontrolerKI\bin\Debug\KontrolerKI.dll
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KontrolerKI\bin\Debug\KontrolerKI.pdb
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KontrolerKI\bin\Debug\Domen.dll
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KontrolerKI\bin\Debug\Komunikacija.dll
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KontrolerKI\bin\Debug\Domen.pdb
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KontrolerKI\bin\Debug\Komunikacija.pdb
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KontrolerKI\obj\Debug\KontrolerKI.csprojResolveAssemblyReference.cache
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KontrolerKI\obj\Debug\KontrolerKI.dll
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\KontrolerKI\obj\Debug\KontrolerKI.pdb

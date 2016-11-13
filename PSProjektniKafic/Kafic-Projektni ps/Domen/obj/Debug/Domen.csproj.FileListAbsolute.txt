@@ -1,0 +1,9 @@
+c:\users\branko\documents\visual studio 2015\Projects\Domen\Domen\bin\Debug\Domen.dll
+c:\users\branko\documents\visual studio 2015\Projects\Domen\Domen\bin\Debug\Domen.pdb
+c:\users\branko\documents\visual studio 2015\Projects\Domen\Domen\obj\Debug\Domen.dll
+c:\users\branko\documents\visual studio 2015\Projects\Domen\Domen\obj\Debug\Domen.pdb
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\Domen\bin\Debug\Domen.dll
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\Domen\bin\Debug\Domen.pdb
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\Domen\obj\Debug\Domen.dll
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\Domen\obj\Debug\Domen.pdb
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\Domen\obj\Debug\Domen.csprojResolveAssemblyReference.cache

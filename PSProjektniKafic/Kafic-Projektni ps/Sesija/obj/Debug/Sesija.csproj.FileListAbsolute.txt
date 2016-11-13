@@ -1,0 +1,14 @@
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\Sesija\bin\Debug\Sesija.dll
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\Sesija\bin\Debug\Sesija.pdb
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\Sesija\bin\Debug\Domen.dll
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\Sesija\bin\Debug\Domen.pdb
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\Sesija\obj\Debug\Sesija.csprojResolveAssemblyReference.cache
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\Sesija\obj\Debug\Sesija.dll
+c:\Users\Branko\documents\visual studio 2015\Projects\Domen\Sesija\obj\Debug\Sesija.pdb
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\Sesija\bin\Debug\Sesija.dll
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\Sesija\bin\Debug\Domen.dll
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\Sesija\bin\Debug\Domen.pdb
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\Sesija\obj\Debug\Sesija.csprojResolveAssemblyReference.cache
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\Sesija\obj\Debug\Sesija.dll
+C:\Users\Branko\Desktop\PS projektni kafic\Kafic-Projektni ps\Sesija\obj\Debug\Sesija.pdb
